@@ -1,4 +1,7 @@
-![Menu](https://github.com/noodlesyrup/OddKnight/assets/134397361/4ec4daf8-b547-4260-9475-f2122ab7eb5c)# OddKnight
+# OddKnight
+![Menu](https://github.com/noodlesyrup/OddKnight/assets/134397361/4ec4daf8-b547-4260-9475-f2122ab7eb5c)
+
+
 
 Embark on a captivating journey in "Oddknight," a game inspired by Hollow Knight. Explore a mysterious world, conquer challenges, and uncover hidden secrets as the enigmatic Oddknight. Will you emerge as the hero this captivating realm needs?  
 
@@ -15,7 +18,6 @@ This game was developed during my academic career
 <summary>In-Game Footage</summary>
 <br>
 
-![Menu](https://github.com/noodlesyrup/OddKnight/assets/134397361/e7370e41-229f-479a-89b1-6ebe987a2dc3)
 ![Level](https://github.com/noodlesyrup/OddKnight/assets/134397361/73e46435-d171-4467-a0df-8a67baa4051e)
 ![Objectives](https://github.com/noodlesyrup/OddKnight/assets/134397361/1f0f8b75-2b94-40ed-b74f-7b49868a962b)
 ![combat3](https://github.com/noodlesyrup/OddKnight/assets/134397361/f79a2dac-34c8-4284-aeb6-23478a269675)
