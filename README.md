@@ -12,7 +12,7 @@ This game was developed during my academic career
 * Atmospheric art and sound design
 
 # Download
-Give the game a try – download and play it using this link. Just extract the game and run the "oddknight.exe". Have fun. 
+Give the game a try – download and play it using this link [ODDKNIGHT](https://drive.google.com/file/d/1wB5OiNNQ7EblIn-RCHhg9SUjuwTLYPPS/view?usp=sharing). Just extract the game and run the "oddknight.exe". Have fun. 
 
 # System Requirements
 * Windows 10 32/64 bit
