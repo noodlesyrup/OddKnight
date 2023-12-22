@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ScreenShake
+  - Enemy
+  - Spike
+  - Sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Enemy
+  - Rocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FG4
+    uniqueID: 2861660223
+    locked: 0
+  - name: FG3
+    uniqueID: 477510817
+    locked: 0
+  - name: FG2
+    uniqueID: 1644272923
+    locked: 0
+  - name: Grass2
+    uniqueID: 2440449773
+    locked: 0
+  - name: Enemy
+    uniqueID: 2386676579
+    locked: 0
+  - name: Player
+    uniqueID: 1067507571
+    locked: 0
+  - name: Grass1
+    uniqueID: 257819031
+    locked: 0
+  - name: Ground
+    uniqueID: 1017969381
+    locked: 0
+  - name: Particles
+    uniqueID: 4146542535
+    locked: 0
+  - name: FG1
+    uniqueID: 1936102395
+    locked: 0
